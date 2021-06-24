@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a602db21916dc5a5c5d773743df3399e.js"
+  "/precache-manifest.101d992c4640882d6e38cf050e58d70b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "timedule"});

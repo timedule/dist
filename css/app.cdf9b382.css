@@ -1,0 +1,1 @@
+.rotate{-webkit-animation:rotate 5s linear;animation:rotate 5s linear}@-webkit-keyframes rotate{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes rotate{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.v-leave-active{transition:opacity 1s}.v-leave-to{opacity:0}
